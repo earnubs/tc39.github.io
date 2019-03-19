@@ -24,6 +24,7 @@
   }
   p {
     margin: 0 0 $spacing-paragraph;
+    text-align: left;
   }
   @media (min-width: $bp-tablet) {
     padding: 130px 0;
